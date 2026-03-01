@@ -1,2 +1,2 @@
 # Wishlist
-Wish Lisy Application
+Wish List Application
